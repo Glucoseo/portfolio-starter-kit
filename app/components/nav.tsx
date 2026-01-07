@@ -11,8 +11,13 @@ const navItems = {
     name: 'blog',
   },
   
-  'https://vercel.com/templates/next.js/portfolio-starter-kit': {
-    name: 'deploy',
+  'https://x.com/Yaklutoi': {
+    name: 'X',
+    target: "__blank",
+  },
+  'https://github.com/Glucoseo': {
+    name: 'Github',
+    target: "__blank"
   },
 }
 
